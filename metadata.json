@@ -1,0 +1,6 @@
+{
+  "name": "Red Team Skill Tree Mind Map",
+  "description": "Interactive, comprehensive Mind Map and Skill Tree for Red Teaming, Adversary Emulation, and Offensive Cybersecurity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
